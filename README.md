@@ -1,2 +1,2 @@
 # WinlogRAT
-Remote Access Trojan written in C# controled from Telegram
+Remote Access Trojan written in C# controled from Telegram This is only for education purposes and showing proof that chatgpt can code malware in the wrong hands. Never use this program for malicious purposes. Forbiden any use that is not educational or for research. I had near to zero knowledge of c# when I did this. I'm scared of the stuff chatgpt can do for a professional malware programmer.
